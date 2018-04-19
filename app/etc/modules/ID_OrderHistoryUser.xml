@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <ID_OrderHistoryUser>
+            <active>true</active>
+            <codePool>local</codePool>
+        </ID_OrderHistoryUser>
+    </modules>
+</config>
